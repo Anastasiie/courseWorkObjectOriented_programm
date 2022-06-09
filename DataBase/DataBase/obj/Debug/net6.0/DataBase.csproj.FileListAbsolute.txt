@@ -1,0 +1,15 @@
+D:\Asya\! курсовая\DataBase\DataBase\bin\Debug\net6.0\DataBase.exe
+D:\Asya\! курсовая\DataBase\DataBase\bin\Debug\net6.0\DataBase.deps.json
+D:\Asya\! курсовая\DataBase\DataBase\bin\Debug\net6.0\DataBase.runtimeconfig.json
+D:\Asya\! курсовая\DataBase\DataBase\bin\Debug\net6.0\DataBase.dll
+D:\Asya\! курсовая\DataBase\DataBase\bin\Debug\net6.0\DataBase.pdb
+D:\Asya\! курсовая\DataBase\DataBase\obj\Debug\net6.0\DataBase.csproj.AssemblyReference.cache
+D:\Asya\! курсовая\DataBase\DataBase\obj\Debug\net6.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asya\! курсовая\DataBase\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfoInputs.cache
+D:\Asya\! курсовая\DataBase\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfo.cs
+D:\Asya\! курсовая\DataBase\DataBase\obj\Debug\net6.0\DataBase.csproj.CoreCompileInputs.cache
+D:\Asya\! курсовая\DataBase\DataBase\obj\Debug\net6.0\DataBase.dll
+D:\Asya\! курсовая\DataBase\DataBase\obj\Debug\net6.0\refint\DataBase.dll
+D:\Asya\! курсовая\DataBase\DataBase\obj\Debug\net6.0\DataBase.pdb
+D:\Asya\! курсовая\DataBase\DataBase\obj\Debug\net6.0\DataBase.genruntimeconfig.cache
+D:\Asya\! курсовая\DataBase\DataBase\obj\Debug\net6.0\ref\DataBase.dll
